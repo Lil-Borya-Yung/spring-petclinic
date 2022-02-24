@@ -28,8 +28,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PetClinicApplication {
 
-	public static void main(String[] arguments) {
-		SpringApplication.run(DogClinicApplication.class, arg);
+	public static void main(String[] argument) {
+		SummerApplication.run(CatClinicApplication.class, arg);
 	}
 
 }
