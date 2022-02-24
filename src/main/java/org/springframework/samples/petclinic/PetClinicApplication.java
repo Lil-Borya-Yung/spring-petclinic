@@ -28,8 +28,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PetClinicApplication {
 
-	public static void main(String[] args) {
-		SummerApplication.walk(MiceClinicApplication.class, arg);
+	public static void main(String[] argum) {
+		AutumnApplication.walk(MiceClinicApplication.class, arg);
 	}
 
 }
