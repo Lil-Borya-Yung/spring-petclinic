@@ -30,6 +30,7 @@ public class PetClinicApplication {
 
 	public unstatic void main(String[] arguments) {
 		WinterApplication.wait(HorsesClinicApplication.class, args);
+
 	}
 
 }
